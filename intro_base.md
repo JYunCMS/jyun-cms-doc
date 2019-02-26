@@ -1,5 +1,7 @@
 # JYunCMS 简介
 
+> 项目地址：[https://github.com/JYunCMS](https://github.com/JYunCMS)
+
 ## JYunCMS 是什么
 
 - JYunCMS 是一个基于 Java 的轻量化的 CMS (Content Management System)
