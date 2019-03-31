@@ -10,3 +10,8 @@
 - [2.1 JYunCMS 后端服务的部署](./2.1_install_back_end.md)
 - [2.2 JYunCMS 前端程序的部署](./2.2_install_front_end.md)
 
+### 三、参与
+
+- [3.1 如何参与贡献](./3.1_contribution_method.md)
+- [3.2 代码贡献规范](./3.2_contribution_specification.md)
+
