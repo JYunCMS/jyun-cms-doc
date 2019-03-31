@@ -6,7 +6,7 @@
 
 ### 运行环境
 
-- HTTP 服务器 （推荐：[Nginx](https://nginx.org/)
+- HTTP 服务器 （推荐：[Nginx](https://nginx.org/)）
 
 ### 工具
 
